@@ -1,7 +1,7 @@
 {
-    "name": "Aine-Bot",
+    "name": "Yunji-Bot",
     "version": "07.06.98",
-    "description": "Customizable WhatsApp Bot",
+    "description": "Halo saya bot",
     "depecrated": false,
     "main": "index.js",
     "directories": {
